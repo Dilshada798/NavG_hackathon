@@ -40,4 +40,3 @@ let editID = "";
 // SETUP LOCALSTORAGE.REMOVEITEM('LIST');
 
 // ****** setup items **********
-
